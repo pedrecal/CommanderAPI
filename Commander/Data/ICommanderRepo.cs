@@ -1,15 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
-using commander.Models;
+using Commander.Models;
 
 namespace Commander.Data
 {
     public interface ICommanderRepo
     {
-        IEnumerable<Command> GetAppComands();
+        IEnumerable<Command> GetAppCommands();
         Command GetCommandById(int id);
     }
 }
