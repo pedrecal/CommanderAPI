@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Commander",
+    "\\Commander\\Data"
   ],
+  "SelectedNode": "\\Commander\\Data\\ICommanderRepo.cs",
   "PreviewInSolutionExplorer": false
 }

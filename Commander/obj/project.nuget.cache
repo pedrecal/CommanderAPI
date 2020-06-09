@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6lyZORfvnlU6ureXlrLr7VUNR3xExy17VYYB92mz5pY6BzQS0gMG6ODIef4g/cmcab3webr1o0Ttpjo7YInQYA==",
+  "dgSpecHash": "QIA3WDijUBRgdi8sgi1fR1n3rrs6GyRS52y7F2fA7zAPO+u2iFzclml1/k+mHsseVbUP8kwyHfp6qh6pQuEE1g==",
   "success": true,
-  "projectFilePath": "X:\\Documents\\Dev\\CommanderAPI\\Commander\\Commander.csproj",
+  "projectFilePath": "C:\\Users\\pedre\\Source\\Repos\\pedrecal\\CommanderAPI\\Commander\\Commander.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

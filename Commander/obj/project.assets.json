@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\Documents\\Dev\\CommanderAPI\\Commander\\Commander.csproj",
+      "projectUniqueName": "C:\\Users\\pedre\\Source\\Repos\\pedrecal\\CommanderAPI\\Commander\\Commander.csproj",
       "projectName": "Commander",
-      "projectPath": "X:\\Documents\\Dev\\CommanderAPI\\Commander\\Commander.csproj",
+      "projectPath": "C:\\Users\\pedre\\Source\\Repos\\pedrecal\\CommanderAPI\\Commander\\Commander.csproj",
       "packagesPath": "C:\\Users\\pedre\\.nuget\\packages\\",
-      "outputPath": "X:\\Documents\\Dev\\CommanderAPI\\Commander\\obj\\",
+      "outputPath": "C:\\Users\\pedre\\Source\\Repos\\pedrecal\\CommanderAPI\\Commander\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedre\\AppData\\Roaming\\NuGet\\NuGet.Config",
